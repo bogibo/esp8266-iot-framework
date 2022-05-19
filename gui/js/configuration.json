@@ -1,16 +1,16 @@
 [
-    {
-        "name": "projectName",
-        "label": "Project Name",
-        "type": "char",
-        "length": 32,
-        "value": "ESP8266 IoT Framework"
-    },
-    {
-        "name": "language",        
-        "type": "char",
-        "length": 3,
-        "value": "en",
-        "hidden": true
-    }
+  {
+    "name": "projectName",
+    "label": "Project Name",
+    "type": "char",
+    "length": 32,
+    "value": "AS-car_counter"
+  },
+  {
+    "name": "language",
+    "type": "char",
+    "length": 3,
+    "value": "ru",
+    "hidden": true
+  }
 ]
